@@ -16,3 +16,10 @@ Education Section: Educational qualifications presented in a structured format.
 Contact Information: Easily accessible details like email, phone, and social links.
 
 The overall layout is minimalistic, readable, and professional, demonstrating good use of semantic HTML elements without any external libraries or frameworks.
+Live Demo
+
+Experience the resume in action through the live deployment:
+
+🔗 View Live Resume
+
+The live link allows you to interact with the layout, view all sections clearly, and see the design exactly as intended, providing a full understanding of the project without downloading it locally.
