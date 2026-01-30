@@ -20,6 +20,6 @@ Live Demo
 
 Experience the resume in action through the live deployment:
 
-🔗 View Live Resume
+https://html-resume-evqq.onrender.com
 
 The live link allows you to interact with the layout, view all sections clearly, and see the design exactly as intended, providing a full understanding of the project without downloading it locally.
